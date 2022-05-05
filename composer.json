@@ -1,0 +1,15 @@
+{
+  "name": "cnorris/328/pets",
+  "authors": [
+    {
+      "name": "Caleb Norris",
+      "email": "norrisc129@gmail.com"
+    },
+    {
+      "name": "Duc"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
